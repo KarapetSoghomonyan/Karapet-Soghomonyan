@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This is a modern web application built with React and Vite, showcasing my projects, skills, and development experience.
 
-## 🚀 Technologies
+## Technologies
 
 - **React 18** - Modern library for building user interfaces
 - **Vite** - Fast build tool for modern web development
@@ -33,7 +33,7 @@ src/
 - **Project Portfolio** - Showcase of completed works
 - **Contact Form** - Easy way to get in touch
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (version 16 or higher)
